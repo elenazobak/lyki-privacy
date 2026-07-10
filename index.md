@@ -1,5 +1,6 @@
 ---
 title: LYKI — Privacy Policy
+description: Privacy policy for the LYKI iOS app. LYKI runs on-device, keeps your photos and videos on your phone, and uses only RevenueCat (billing) and TelemetryDeck (anonymous usage counts).
 layout: default
 ---
 
